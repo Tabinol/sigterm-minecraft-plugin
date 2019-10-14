@@ -1,0 +1,6 @@
+name: Sigterm
+main: me.tabinol.sigterm.Sigterm
+version: ${project.version}
+description: "Override SIGTERM for graceful shutdown"
+authors: [Tabinol]
+api-version: 1.14
